@@ -13,4 +13,5 @@ I am an electrical engineer turned web-developer. Here's a few things about me t
 - 😆 Although I'm more than certain that I've barely scratched the surface, this one hit's home..
 <img src="https://miro.medium.com/max/1282/1*CiJrQnE0x5c8kcpxgMRRdw.webp"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sneham-boop)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sneham-boop&show_icons=true&theme=radical)
+
