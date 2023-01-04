@@ -17,7 +17,7 @@ I am an electrical engineer turned web-developer. Here's a few things about me t
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sneham-boop&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![MasterHead](your image link)](your GitHub link)
+[![MasterHead](https://github.com/sneham-boop/sneham-boop/blob/main/Black%20&%20White%20Modern%20Minimalist%20Data%20Scientist%20LinkedIn%20Banner.png?raw=true)](https://github.com/sneham-boop)
 
 
 
