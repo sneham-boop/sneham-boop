@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Sneha. 👋
+
+I am an electrical engineer turned web-developer. 
 
 <!--
 **sneham-boop/sneham-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
