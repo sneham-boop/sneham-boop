@@ -11,7 +11,7 @@ An electrical engineer turned web-developer. Here's a few things about me that y
 - 📫 How to reach me: hello@snehakm.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm also an artist. I add black, RIDICULOUSLY, squigly lines all over watercolour paintings. 
-- 🤓 Not so fun, but still a fact: I was a research assistent for a medical image processing lab and worked on developing an algorithm to identify benign skin lesions vs the not so nice ones. This is sort of where my interest in visuals and coding started to overlap. If you are interested in taking a look here is [my research thesis link](https://scholarsmine.mst.edu/masters_theses/8056/).
+- 🤓 Not so fun, but still a fact: I was a research assistent for a medical image processing lab and worked on developing an algorithm to identify benign skin lesions vs the not so nice ones. This is sort of where my interest in visuals and coding started to overlap. If you are interested in taking a look here is [my research thesis](https://scholarsmine.mst.edu/masters_theses/8056/).
 
 - 😆 Ok, last one. Although I'm more than certain that I've barely scratched the surface, this one still hit's home.
 <img src="https://miro.medium.com/max/1282/1*CiJrQnE0x5c8kcpxgMRRdw.webp"/>
