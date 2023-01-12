@@ -21,4 +21,5 @@ An electrical engineer turned web-developer. Here's a few things about me that y
 [![Sneha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sneham-boop&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+![](https://raw.githubusercontent.com/sneham-boop/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/sneham-boop/github-stats/master/generated/overview.svg#gh-light-mode-only)
