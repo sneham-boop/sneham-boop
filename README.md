@@ -16,9 +16,9 @@ An electrical engineer turned web-developer. Here's a few things about me that y
 - 😆 Ok, last one. Although I'm more than certain that I've barely scratched the surface, this one still hit's home.
 <img src="https://miro.medium.com/max/1282/1*CiJrQnE0x5c8kcpxgMRRdw.webp"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sneham-boop&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?user=sneham-boop&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sneham-boop&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=sneham-boop&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
